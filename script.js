@@ -9,5 +9,5 @@ function insert_Row() {
 	tr.appendChild(td1)
 	tr.appendChild(td2)
 	table.appendChild(tr)
-	able.prepend(tr)t
+	table.prepend(tr)
 }
